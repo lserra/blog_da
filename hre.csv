@@ -1,0 +1,46 @@
+Ix,Dynasty,Name,Birth,Death,Election 1,Election 2,Coronation 1,Coronation 2,Ceased to be Emperor,Descent from whom 1,Descent how 1,Descent from whom 2,Descent how 2
+NA,Carolingian,Charles I,2 April 742,28 January 814,NA,NA,25 December 800,NA,28 January 814,NA,NA,NA,NA
+NA,Carolingian,Louis I,778,20 June 840,NA,NA,11 September 813,5 October 816,20 June 840,Charles I,son,NA,NA
+NA,Carolingian,Lothair I,795,29 September 855,NA,NA,5 April 823,NA,29 September 855,Louis I,son,NA,NA
+NA,Carolingian,Louis II,825,12 August 875,NA,NA,Easter 850,18 May 872,12 August 875,Lothair I,son,NA,NA
+NA,Carolingian,Charles II,13 June 823,6 October 877,NA,NA,29 December 875,NA,6 October 877,Louis I,son,NA,NA
+NA,Carolingian,Charles III,13 June 839,13 January 888,NA,NA,12 February 881,NA,13 January 888,Louis I,grandson,NA,NA
+NA,Guideschi,Guy,855,12 December 894,NA,NA,May 891,NA,12 December 894,Charles I,great-great grandson,NA,NA
+NA,Guideschi,Lambert,880,15 October 898,NA,NA,30 April 892,NA,15 October 898,Guy,son,NA,NA
+NA,Carolingian,Arnulph,850,8 December 899,NA,NA,22 February 896,NA,8 December 899,Charles III,nephew,Louis I,great-grandson
+NA,Bosonid,Louis III,880,28 June 928,NA,NA,22 February 901,NA,21 July 905,Louis II,grandson,NA,NA
+NA,Unruoching,Berengar,845,7 April 924,NA,NA,December 915,NA,7 April 924,Louis I,grandson,NA,NA
+1,Ottonian,Otto I,23 November 912,7 May 973,NA,NA,2 February 962,NA,7 May 973,Louis I,great-great-great grandson,NA,NA
+2,Ottonian,Otto II,955,7 December 983,961,NA,25 December 967,NA,7 December 983,Otto I,son,NA,NA
+3,Ottonian,Otto III,980,23 January 1002,June 983,NA,21 May 996,NA,23 January 1002,Otto II,son,NA,NA
+4,Ottonian,Henry II,6 May 973,13 July 1024,7 June 1002,NA,14 February 1014,NA,13 July 1024,Otto III,second cousin,Louis I,great-great-great-great-great grandson
+5,Salian,Conrad II,990,4 June 1039,1024,NA,26 March 1027,NA,4 June 1039,Otto I,great-great-grandson,NA,NA
+6,Salian,Henry III,29 October 1017,5 October 1056,1028,NA,25 December 1046,NA,5 October 1056,Conrad II,son,NA,NA
+7,Salian,Henry IV,11 November 1050,7 August 1106,1053,NA,31 March 1084,NA,December 1105,Henry III,son,NA,NA
+8,Salian,Henry V,8 November 1086,23 May 1125,6 January 1099,NA,13 April 1111,NA,23 May 1125,Henry IV,son,NA,NA
+9,Supplinburg,Lothair III,9 June 1075,4 December 1137,1125,NA,4 June 1133,NA,4 December 1137,Otto I,9th generation descendant,Charles II,11th generation descendant
+10,Hohenstaufen,Frederick I,1122,10 June 1190,4 March 1152,NA,18 June 1155,NA,10 June 1190,Henry IV,great-grandson
+11,Hohenstaufen,Henry VI,November 1165,28 September 1197,April 1169,NA,14 April 1191,NA,28 September 1197,Frederick I,son,NA,NA
+12,Welf,Otto IV,1175,19 May 1218,9 June 1198,NA,4 October 1209,NA,1215,Lothair III,great-grandson,NA,NA
+13,Hohenstaufen,Frederick II,26 December 1194,13 December 1250,1196,1215,22 November 1220,NA,13 December 1250,Henry VI,son,NA,NA
+14,Luxembourg,Henry VII,1275,24 August 1313,1308,NA,29 June 1312,NA,24 August 1313,Louis III,13th generation,NA,NA
+15,Wittelsbach,Louis IV,1 April 1282,11 October 1347,October 1314,NA,17 January 1328,NA,11 October 1347,Lothair III,6th generation descendant,Henry IV,7th generation descendant
+16,Luxembourg,Charles IV,14 May 1316,29 November 1378,11 July 1346,17 June 1349,5 April 1355,NA,29 November 1378,Henry VII,grandson,NA,NA
+17,Luxembourg,Sigismund,14 February 1368,9 December 1437,10 September 1410,21 July 1411,31 May 1433,NA,9 December 1437,Charles IV,son,NA,NA
+18,Habsburg,Frederick III,21 September 1415,19 August 1493,1440,NA,19 March 1452,NA,19 August 1493,Lothair III,10th generation descendant,NA,NA
+19,Habsburg,Maximilian I,22 March 1459,12 January 1519,16 February 1486,NA,NA,NA,12 January 1519,Frederick III,son,NA,NA
+20,Habsburg,Charles V,24 February 1500,21 September 1558,28 June 1519,NA,February 1530,NA,16 January 1556,Maximilian I,grandson,NA,NA
+21,Habsburg,Ferdinand I,10 March 1503,25 July 1564,1531,NA,NA,NA,25 July 1564,Maximilian I,grandson,NA,NA
+22,Habsburg,Maximilian II,31 July 1527,12 October 1576,November 1562,NA,NA,NA,12 October 1576,Ferdinand I,son,NA,NA
+23,Habsburg,Rudolph II,18 July 1552,20 January 1612,1575,NA,30 June 1575,NA,20 January 1612,Maximilian II,son,NA,NA
+24,Habsburg,Matthias,24 February 1557,20 March 1619,1612,NA,23 January 1612,NA,20 March 1619,Maximilian II,son,NA,NA
+25,Habsburg,Ferdinand II,9 July 1578,15 February 1637,1618,NA,10 March 1619,NA,15 February 1637,Ferdinand I,grandson,NA,NA
+26,Habsburg,Ferdinand III,13 July 1608,2 April 1657,1636,NA,18 November 1637,NA,2 April 1657,Ferdinand II,son,NA,NA
+27,Habsburg,Leopold I,9 June 1640,5 May 1705,18 July 1658,NA,6 March 1657,NA,5 May 1705,Ferdinand III,son,NA,NA
+28,Habsburg,Joseph I,26 July 1678,17 April 1711,6 January 1690,NA,1 May 1705,NA,17 April 1711,Leopold I,son,NA,NA
+29,Habsburg,Charles VI,1 October 1685,20 October 1740,12 October 1711,NA,22 December 1711,NA,20 October 1740,Leopold I,son,NA,NA
+30,Wittelsbach,Charles VII,6 August 1697,20 January 1745,24 January 1742,NA,12 February 1742,NA,20 January 1745,Ferdinand II,great-great grandson,Louis IV,12th generation descendant
+31,Habsburg-Lorraine,Francis I,8 December 1708,18 August 1765,13 September 1745,NA,NA,NA,18 August 1765,Ferdinand III,great-grandson,NA,NA
+32,Habsburg-Lorraine,Joseph II,13 March 1741,20 February 1790,18 August 1765,NA,19 August 1765,NA,20 February 1790,Francis I,son,Charles VI,maternal grandson
+33,Habsburg-Lorraine,Leopold II,5 May 1747,1 March 1792,20 February 1790,NA,NA,NA,1 March 1792,Francis I,son,Charles VI,maternal grandson
+34,Habsburg-Lorraine,Francis II,12 February 1768,2 March 1835,1 March 1792,NA,4 March 1792,NA,6 August 1806,Leopold II,son,NA,NA
